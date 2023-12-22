@@ -11,4 +11,4 @@ DML - refers to assessments fit using the Dirichlet-multinomial (linear paramete
 
 LN - refers to assessments fit using the Logistic-normal (with AR(1) var-covar matrix) likelihood for fitting composition data
 
-MN - refers to assessments fit using the Multinomial (asymtotic parameterization) likelihood for fitting composition data
+MN - refers to assessments fit using the Multinomial likelihood for fitting composition data
